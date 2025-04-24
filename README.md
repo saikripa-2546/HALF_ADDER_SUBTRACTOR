@@ -73,17 +73,21 @@ endmodule
 
 **RTL Schematic**
 HALF ADDAR
+
 ![image](https://github.com/user-attachments/assets/c98f9dca-1d66-4e82-98d4-144e8ee2eb77)
 
 HALF SUBTRACTED
+
 ![image](https://github.com/user-attachments/assets/4cc159f8-6972-4b6b-837a-1144fba1558d)
 
 
 **Output/TIMING Waveform**
 1.HALF ADDAR
+
 ![image](https://github.com/user-attachments/assets/5f89506a-c83b-49b5-a04f-a84105dc8feb)
 
 2.HALF SUBTRACTED
+
 ![image](https://github.com/user-attachments/assets/9eb7ea9c-f743-4400-b24e-ec592d8c4a14)
 
 
